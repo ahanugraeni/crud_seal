@@ -1,5 +1,5 @@
 --  untuk memakai database pegawai
-use pegawai; 
+use pegawai;
 
 --create tabel jabatan
 create table jabatan(
